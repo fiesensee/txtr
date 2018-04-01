@@ -1,3 +1,6 @@
 *model*
 __pycache__/
 logs/
+build/
+dist/
+*.spec
